@@ -56,4 +56,4 @@ This project is **open-source** under the **MIT License**.
 ## **📩 Contact**
 For questions or feedback, feel free to reach out:  
 📧 **Email**: sc.bomma@gmail.com  
-👩‍💻 **LinkedIn**: [[Your Profile](https://linkedin.com/in/yourprofile)  ](https://www.linkedin.com/in/sirichandanabomma/)
+👩‍💻 **LinkedIn**: https://www.linkedin.com/in/sirichandanabomma/
