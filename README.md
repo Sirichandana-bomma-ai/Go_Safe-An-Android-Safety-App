@@ -1,5 +1,5 @@
 ### **GoSafe - Women Safety Android App**  
-A voice-activated Android application for women’s safety that allows users to send emergency alerts and location details to their trusted contacts using voice commands.
+A voice-activated Android application for women’s safety that allows users to send emergency alerts and location details to their trusted contacts, saved while the registration and emergency contacts are using voice commands, even from the lock screen.
 
 ## **📌 Features**
 - 📢 **Voice Activation**: Trigger emergency alerts hands-free using voice commands.
